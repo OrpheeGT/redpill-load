@@ -11,7 +11,7 @@
     {
       "name": "virtio-4.4.180p.tgz",
       "url": "https://github.com/OrpheeGT/redpill-load/raw/develop/redpill-virtio/releases/v1.0.0/denverton/virtio-4.4.180p.tgz",
-      "sha256": "e1e817bd6f637cb13ed74a8dca0775be575dadaa9012cb3c96a957f265ae341c",
+      "sha256": "4dbf8f5180a2d5d29fbbd2b40efdf42bcafa93ae9eb0c862951b59faa41cc105",
       "packed": true
     }
   ],
